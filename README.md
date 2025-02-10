@@ -4,7 +4,7 @@ Source of Data: Japan National Tourism Organization (JNTO)
 In this Data Analysis, I analyze tourism data pertaining to visitor arrivals to Japan and Prefecture Visit Rate of tourists to Japan. 
 
 ## List of Analyses:
-Analysis A1: Singapore Visitor Arrivals to Japan by Month
+Analysis A1: Singapore Visitor Arrivals to Japan by Month \n
 Analysis A2: Visitor Arrivals to Japan - Singapore and Malaysia Comparison
 Analysis A3: Singapore Visitor Numbers as a proportion of overall visitor numbers
 Analysis A4: One-way ANOVA
